@@ -1,0 +1,15 @@
+body{
+    background: linear-gradient(45deg, rgba(13, 0, 255)
+    0%, rgba(5, 189, 29) 33%, rgb(229, 255, 9) 100%);
+}
+
+.calculadora{
+    background-color: black;
+    height: 630px;
+    width: 412px;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
